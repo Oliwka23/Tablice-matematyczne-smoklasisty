@@ -1,2 +1,2 @@
-# Tablice-matematyczne-smoklasisty
-trona do nauki matematyki – egzamin 8 klasy
+# Tablice-matematyczne-ósmoklasisty
+strona do nauki matematyki – wzory egzamin 8-klasisty
